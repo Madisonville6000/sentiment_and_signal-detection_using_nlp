@@ -1,4 +1,4 @@
-# Token Telegram Community Alert & Intelligence
+# Community Intelligence & Alert Detection using NLP
 
 A Python-based crypto community intelligence project that analyzes Telegram messages to detect token mention spikes, sentiment trends, scam signals, and early warning alerts.
 
