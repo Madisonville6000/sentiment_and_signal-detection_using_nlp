@@ -1,18 +1,18 @@
 # Community Intelligence & Alert Detection using NLP
 
-A Python-based crypto community intelligence project that analyzes Telegram messages to detect token mention spikes, sentiment trends, scam signals, and early warning alerts.
+A Python-based NLP project that analyzes large scale community conversations to identify sentiment trends, emerging signals, behavioral patterns and early warning indicators from unnstructured text data 
 
 ## Project Overview
 
-Crypto communities often generate signals before major market movements. This project analyzes Telegram community data to identify unusual activity around token mentions, hype cycles, and potential risk signals.
+Large online communities generate valuable signals that can reveal emerging trends, unusual activity, sentiment shifts, and potential risks. This project applies Natural Language Processing (NLP) techniques to community conversation data to identify behavioral patterns and generate actionable insights
 
 ## Objectives
 
-- Track token mention frequency across Telegram messages
-- Detect sudden spikes in community discussion
-- Analyze sentiment trends over time
-- Identify possible scam or suspicious message patterns
-- Generate early warning alerts from community activity
+- Analyze sentiment trends across community conversations
+- Detect unusual spikes in discussion activity
+- Identify emerging behavioral and engagement patterns
+- Detect potential risk or alert signals from text data
+- Generate insights from unstructured community conversations
 
 ## Tools Used
 
