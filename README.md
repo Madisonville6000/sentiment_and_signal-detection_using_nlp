@@ -1,46 +1,18 @@
-# Community Intelligence & Alert Detection using NLP
+# Sentiment Intelligence & Signal Detection Engine
+An applied Natural Language Processing (NLP) framework designed to extract behavioral insights and track real-time sentiment trajectories from unstructured text data streams.
 
-A Python-based NLP project that analyzes large scale community conversations to identify sentiment trends, emerging signals, behavioral patterns and early warning indicators from unnstructured text data 
+## Project Context
+Online platforms shift rapidly based on community emotions, but text-based feedback loops are rarely organized to support quick decision-making. Without a clear tracking structure, teams easily miss sudden drops in community mood, leading to delayed communication strategies during crucial events.
 
-## Project Overview
+## Data Revelations
+By testing models on raw user statements, the data revealed that community emotional variations clump into highly predictable patterns right before major drops in participation. Tracking discussion velocity early acts as an essential warning system to fix user friction points before they escalate.
 
-Large online communities generate valuable signals that can reveal emerging trends, unusual activity, sentiment shifts, and potential risks. This project applies Natural Language Processing (NLP) techniques to community conversation data to identify behavioral patterns and generate actionable insights
+## System Execution
+I developed a natural language processing (NLP) workflow in Python using TextBlob to automatically read, clean, and classify text feedback streams into clear positive, negative, and neutral scores. This is paired with Pandas and Matplotlib to map shifting emotion scales directly against activity timelines.
 
-## Objectives
+## Operational Value
+This project successfully shifts platform monitoring from a slow manual review task to an automated sentiment intelligence workflow. It provides teams with a clean visual overview to catch unusual sentiment changes early, helping them address issues proactively and build better audience plans.
 
-- Analyze sentiment trends across community conversations
-- Detect unusual spikes in discussion activity
-- Identify emerging behavioral and engagement patterns
-- Detect potential risk or alert signals from text data
-- Generate insights from unstructured community conversations
-
-## Tools Used
-
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
-
-## Key Features
-
-- Token keyword tracking
-- Message frequency analysis
-- Sentiment trend detection
-- Spike detection logic
-- Early alert framework
-
-## Why This Project Matters
-
-In Web3, community activity often contain early warning signals hidden inside noisy conversations. This project focused on sentiment shifts, scam related keywords and message spikes that may indicate hype, good news, panic, warnings or risky token activity. By converting raw messages into alerts, the project demonstrates how community data can support faster crypto research and risk monitoring.
-
-## Project Files
-
-- `notebook.ipynb` — main analysis notebook
-- `README.md` — project documentation
-- `charts/` — project visualizations
-
-## Author
-
-**UNWANA I. UMANA**  
-Web3 Data Analyst | Crypto Community Intelligence  
-GitHub: [Madisonville6000](https://github.com/Madisonville6000)
+## Tech Stack Used
+* **Languages & Tools:** Python, Jupyter Notebook, Microsoft Excel
+* **Libraries:** TextBlob, Pandas, Matplotlib
